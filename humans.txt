@@ -1,0 +1,40 @@
+ __ __ __      __ __ __ __
+|        |    |
+|        |    |
+|        |    | 
+|__ __ __|    |   __ __ __  
+|             |           |
+|             |           |
+|             |__ __ __ __|
+
+The humans.txt file explains the team, technology,
+and graphic assets behind this site humanstxt.org.
+
+_______________________________________________________________________________
+
+DESIGNER | 
+
+Piyush Gautam
+took help from open sources
+
+Design tools:
+Figma
+Photoshop
+
+https://twitter.com/piyushgautamtg
+https://github.com/gautamPUNS
+https://www.linkedin.com/in/piyush-gautam-tg
+_______________________________________________________________________________
+
+TECHNOLOGY | 
+
+React
+Three js
+Popmotion
+
+_______________________________________________________________________________
+
+FONTS | 
+
+Gotham
+
